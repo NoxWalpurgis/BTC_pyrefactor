@@ -47,6 +47,13 @@ json
 random
 rsa
 
+# Usage
+
+  ```console
+# python3 main.py 42001
+# python3 main.py 42002
+# python3 main.py 42003
+  ```
 
 # Refrence
 
